@@ -1,0 +1,32 @@
+.form-control{
+    margin: auto;
+    width: 80%;
+    border: 3px solid #0ef3a6;
+    padding: 10px;
+    background-color: #7fffd4;
+    border-radius: 10px ;
+    }
+    .form-control input{
+        margin: 10px;
+        width:90%;
+    }
+    .form-heading{
+    margin: auto;
+    margin-bottom: 5px;
+    width: 80%;
+    border: 3px solid goldenrod;
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 128);
+    background-color: rgb(234, 196, 101);
+    border-radius: 10px ;
+    }
+    button{
+        width: 91%;
+        margin-left: 10px;
+        color: white;
+        background-color: rgb(190, 147, 94);
+    }
+    label{
+        margin-left: 10px;
+    }

@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-header{
+    margin: 0;
+    padding: 20px;
+    background-color: burlywood;
+    height: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.main-nav-list{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 2rem;
+    display: flex;
+}
+.main-nav-list-items a{
+    text-decoration: none;
+    color: black;
+    margin:5px;
+}
+.main-nav-list-items a:hover,
+.main-nav-list-items a:active
+{
+ color: white;
+}
+.main-nav-list-items{
+    list-style-type:none;
+    margin-right: 2rem;
+    justify-content: center;
+    align-items: center;
+    overflow: none;
+}
